@@ -2,6 +2,10 @@
 
 DevOps is a set of practices, tools, and a cultural philosophy that automate and integrate the processes between software development and IT teams.
 
+DevOps can be visualised by the image below:
+
+![Image](devops_loop.png "DevOps Loop")
+
 ### Benefits of DevOps? Benefits for businesses?
 
 The main benefits of DevOps for businesses are:
